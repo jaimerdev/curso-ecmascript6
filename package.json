@@ -1,0 +1,19 @@
+{
+  "name": "curso-ecmascript",
+  "version": "1.0.0",
+  "description": "ejercicios realizados en el curso de ECMAScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "ecmascript"
+  ],
+  "author": "Jaime Guerrero <jaime.lgr97@gmail.com>",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "node-fetch": "^3.2.10"
+  }
+}
